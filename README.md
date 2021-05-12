@@ -13,34 +13,34 @@ The second half of the pitch will focus on the time of day most bikes are checke
 ### Checkout Times for Users
 This line graph displays the number of bikes checked out by users continuously throughout the day. More bikes are rented during the early hours of 4:00-6:00 AM. This time period would be the worst to refurbish or perfrom maintenence on Citibikes. Most users come during those hours to rent bikes. 
 
-![image](images/pic1_checkout_users.png)
+![image](images/pic1.png)
 
 
 ### Checkout Times by Gender
 This graph is similar to the first, however this time gender is considered to try and see whether or not it has an impact on checkout times throughout the day. According to the data, checkout times are higher during the same time period of 4:00-6:00 AM. In our gender breakdown we can confirm two-thirds of the users are males, the rest are females or unknown. 
 
-![image](images/pic2_checkout_gender.png)
+![image](images/pic2.png)
 
-![image](images/pic3_gender_breakdown.png)
+![image](images/pic6.png)
 
 
 ### Trips by Weekday for Each Hour
 Here we can see the most popular times do go on a trip from our users. The analysis confims more trips in the morning and in the evening from Monday-Friday. At the weekend, there are more trips during the morning and through the evening. 
 
-![image](images/pic4_trips_weekday_hour.png)
+![image](images/pic3.png)
 
 
 ### Trips by Gender (Weekday per Hour)
 This visual confirms the most popular times each gender goes on a bike trip during each day in the week. We again see the most popular times in the morning being 6:00-8:00 AM, and in the evening being 5:00-7:00 PM. 
 
-![image](images/pic5_trips_gender_weekday_hour.png)
+![image](images/pic4.png)
 
 ### User Trips by Gender by Weekday
 This final analysis breaks down the preferred times by gender and by usertype (short-term customer or subscriber). We can conclude that the majority of our users are male subscribers. 
 
-![image](images/pic6_usertype_gender_weekday.png)
+![image](images/pic5.png)
 
-![image](images/pic7_usertype.png)
+![image](images/pic7.png)
 
 
 ## Summary
