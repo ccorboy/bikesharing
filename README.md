@@ -54,3 +54,6 @@ This will provide us with data that will best support our users. How would knowi
 Would families participate group-oreinted activities? If we could analyze whether our users came in groups of families or friends we could organize group-lead tours for bundle-packages. This could demand at least one subscription per family-member, increase annual profit. For example, if we bundled 3 families togehter for a tour of the Poppajohn Sculpture Park in Des Moines, we would add 3 subscribers plus a family bundle package for a tour of one of Iowas most vibrant, outdoor sites. 
 
 
+
+### Tableau Public
+[link to dashboard](https://public.tableau.com/profile/conor.corboy#!/vizhome/Module14Challenge_16207580355840/ChallengeNYCStory?publish=yes)
